@@ -1,0 +1,11 @@
+
+big query tables : 
+
+../google-cloud-sdk/bin/gcloud config set project business-profil-importer
+
+../google-cloud-sdk/bin/gcloud run deploy
+
+
+
+// modules
+https://appicon.co/
